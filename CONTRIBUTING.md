@@ -9,7 +9,7 @@ Below are guidelines on how you can help.
 Check the FPDS contract links against the reported savings in the spreadsheet.
 Report any discrepancies by opening a GitHub Issue.
 2️⃣ Submit Data Corrections or Updates
-If you find incorrect values, update the spreadsheet and submit a pull request.
+If you find incorrect values or found new information added, update the spreadsheet and submit a pull request.
 See How to Submit Changes below for instructions.
 3️⃣ Improve Data Transparency
 If you have a program or tool to automate checking FPDS links, contribute it!
