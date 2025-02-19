@@ -39,3 +39,6 @@ If you have any questions or insights, feel free to:
 Open an Issue on GitHub.
 Comment on the linked post (if shared on social media).
 Let’s make sure government spending is transparent and accountable.
+
+Stay Updated
+If you’re interested in more of my research and analysis, you can follow me on Substack: https://justplainkris.substack.com/
