@@ -1,4 +1,3 @@
-```markdown
 # FPDS Contract Verifier
 
 This tool verifies federal contract amounts between an Excel spreadsheet and FPDS (Federal Procurement Data System) web pages.
